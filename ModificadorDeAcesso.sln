@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModificadorDeAcesso", "ModificadorDeAcesso.csproj", "{0F7DF77E-2008-473B-AB02-9E63375C31AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F7DF77E-2008-473B-AB02-9E63375C31AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7DF77E-2008-473B-AB02-9E63375C31AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7DF77E-2008-473B-AB02-9E63375C31AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7DF77E-2008-473B-AB02-9E63375C31AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F95A888D-246C-4C0B-9829-A0FABCC638A4}
+	EndGlobalSection
+EndGlobal
